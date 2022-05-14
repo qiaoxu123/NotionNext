@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'xqiao', // 作者
   BIO: '一个想要躺平的北漂', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  LINK: 'htts://qiaoxu123.github.io', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
     process.env.Notion_Page_ID || '26daaae4babb4968ba18bb3e0496f407', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
